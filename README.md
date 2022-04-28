@@ -41,5 +41,9 @@ rm newfile
 $ ls
 abc  cptext  mytext  textfile
 
+**9. chmod** - the chmod command is used to give permission to the user on perticuler file.
+chmod -777 newfile
+
+users have authority to read write execute file.
 
 
